@@ -1,0 +1,21 @@
+body{
+  /* background-color: green; */
+  background: url(https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/norway/norterern_lights_troms_northern_norway_nav_ec532173-fdf8-4000-912f-c9fcbc00e2ef.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+div{
+  background-color: black;
+
+  /* border-width:medium; */
+  border-color: blue;
+  border-width: 4px;
+  border-style:groove;
+}
+span{
+  background: red;
+  color: black;
+}
+p{
+  color: white;
+}
