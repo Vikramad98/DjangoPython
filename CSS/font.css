@@ -1,0 +1,26 @@
+h1{
+  font-family: "Arial";
+  text-align: center;
+}
+
+p{
+  font-family: monospace;
+}
+
+/* #para2{
+  font-size: 20px;
+} */
+
+body{
+  font-size: 20px;
+}
+
+#para2{
+  font-size: 2.0em;
+  font-family: 'Bangers', cursive;
+}
+
+p{
+  font-style: italic;
+  font-weight: 200;
+}

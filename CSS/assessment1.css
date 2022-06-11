@@ -1,0 +1,59 @@
+h1{
+  border: 2px solid black;
+}
+
+*{
+  background-color: #ACDCE9;
+}
+
+
+#para1{
+  background-color: #F0E99A;
+}
+
+p+h2{
+  color:#A435F0;
+}
+
+#inputtxt{
+  color: #7827b2;
+  text-decoration: overline;
+}
+
+.hehe{
+  border: 4px solid gray;
+  background-color: white;
+}
+
+#login{
+  border: 2px solid red;
+  background-color: gray;
+}
+
+.block2{
+  border: 4px dotted yellow;
+  background-color: blue;
+}
+
+#para2{
+  background-color: #F0E99A;
+}
+
+#txtarea2{
+  background-color: white;
+  border: 4px solid gray;
+}
+
+textarea+h2{
+  color:#A435F0;
+}
+
+.email{
+  border: 2px solid red;
+  background-color: white;
+}
+
+.pass{
+  border: 2px solid red;
+  background-color: white;
+}

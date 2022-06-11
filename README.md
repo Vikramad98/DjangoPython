@@ -11,3 +11,9 @@ Skills i will be learning:
 5. Bootstrap
 6. python
 7. Django
+
+
+You can download fonts from:
+1. https://www.cssfontstack.com
+2. https://fonts.google.com
+3. https://www.fontlibrary.org
